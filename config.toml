@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://ascentdatasolutions.github.io'
 languageCode = 'en-us'
 title = 'Ascent Data Solutions'
 themes="hugo-theme-air"
