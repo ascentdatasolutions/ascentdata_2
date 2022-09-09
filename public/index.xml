@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ascent Data Solutions</title>
+    <link>http://ascentdatasolutions.github.io/</link>
+    <description>Recent content on Ascent Data Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2022</copyright>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ascentdatasolutions.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample 3</title>
+      <link>http://ascentdatasolutions.github.io/post/2022/09/08/test/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ascentdatasolutions.github.io/post/2022/09/08/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+Below you will find some of the most common and helpful pages from our documentation.
+https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>Sample 2</title>
+      <link>http://ascentdatasolutions.github.io/post/2022/01/01/test/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ascentdatasolutions.github.io/post/2022/01/01/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+Below you will find some of the most common and helpful pages from our documentation.
+https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>Sample 1</title>
+      <link>http://ascentdatasolutions.github.io/post/2021/01/01/test/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://ascentdatasolutions.github.io/post/2021/01/01/test/</guid>
+      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>
