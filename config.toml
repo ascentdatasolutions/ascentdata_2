@@ -1,4 +1,4 @@
-baseURL = '//ascentdatasolutions.github.io/ascentdata/'
+baseURL = '//ascentdatasolutions.com'
 languageCode = 'en-us'
 title = 'Ascent Data Solutions'
 themes="hugo-theme-air"
