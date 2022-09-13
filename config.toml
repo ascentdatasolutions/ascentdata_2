@@ -6,6 +6,7 @@ paginate = 1
 DisqusShortname = ""
 Copyright = "All rights reserved - 2022"
 canonifyurls = true
+uglyurls = true
 
 [author]
   name = "syui"
